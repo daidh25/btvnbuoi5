@@ -1,0 +1,14 @@
+D:\ASP\Asp.net\buoi5-bai1\buoi5-bai1\bin\Debug\net6.0\buoi5-bai1.exe
+D:\ASP\Asp.net\buoi5-bai1\buoi5-bai1\bin\Debug\net6.0\buoi5-bai1.deps.json
+D:\ASP\Asp.net\buoi5-bai1\buoi5-bai1\bin\Debug\net6.0\buoi5-bai1.runtimeconfig.json
+D:\ASP\Asp.net\buoi5-bai1\buoi5-bai1\bin\Debug\net6.0\buoi5-bai1.dll
+D:\ASP\Asp.net\buoi5-bai1\buoi5-bai1\bin\Debug\net6.0\buoi5-bai1.pdb
+D:\ASP\Asp.net\buoi5-bai1\buoi5-bai1\obj\Debug\net6.0\buoi5-bai1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP\Asp.net\buoi5-bai1\buoi5-bai1\obj\Debug\net6.0\buoi5-bai1.AssemblyInfoInputs.cache
+D:\ASP\Asp.net\buoi5-bai1\buoi5-bai1\obj\Debug\net6.0\buoi5-bai1.AssemblyInfo.cs
+D:\ASP\Asp.net\buoi5-bai1\buoi5-bai1\obj\Debug\net6.0\buoi5-bai1.csproj.CoreCompileInputs.cache
+D:\ASP\Asp.net\buoi5-bai1\buoi5-bai1\obj\Debug\net6.0\buoi5-bai1.dll
+D:\ASP\Asp.net\buoi5-bai1\buoi5-bai1\obj\Debug\net6.0\refint\buoi5-bai1.dll
+D:\ASP\Asp.net\buoi5-bai1\buoi5-bai1\obj\Debug\net6.0\buoi5-bai1.pdb
+D:\ASP\Asp.net\buoi5-bai1\buoi5-bai1\obj\Debug\net6.0\buoi5-bai1.genruntimeconfig.cache
+D:\ASP\Asp.net\buoi5-bai1\buoi5-bai1\obj\Debug\net6.0\ref\buoi5-bai1.dll
